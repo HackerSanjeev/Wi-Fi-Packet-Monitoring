@@ -6,8 +6,12 @@
 <img src="https://github.com/HackerSanjeev/Wi-Fi-Packet-Monitoring/blob/main/img/Packet%20Monitor.jpg" alt="hackersanjeev" width="500" height="600" />
 
 <h2>For circuit Connection</h2>
+Packet Monitor Circuit.png
+<img src="https://github.com/HackerSanjeev/Wi-Fi-Packet-Monitoring/blob/main/img/Packet%20monitor%20circuit.PNG" alt="hackersanjeev" width="500" height="400" />
 
-<img src="https://github.com/HackerSanjeev/Wi-Fi-Packet-Monitoring/blob/main/img/Packet%20Monitor.jpg" alt="hackersanjeev" width="500" height="600" />
+<p>After the connection complete just upload that bin file to your esp8266 using that esp8266 flasher</p>
+
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackersanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="hackersanjeev" /> </p>
